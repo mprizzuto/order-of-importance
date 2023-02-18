@@ -58,7 +58,7 @@ Detailed outlines/drawings. [human-data-collection](https://perpetual.education/
 
 We think you should be writing about your process and learning experience. We can't make you do it, but we know that if you do - you'll learn more, make better work, understand the process more - and make a lot more money. You can always go back and edit your posts later.
 
-- [ ] Happening [link to proof](https://peprojects.dev)
+- [ ] Happening [link to proof](https://marcor.substack.com/)
 
 
 ## ⬤ HTML and CSS
