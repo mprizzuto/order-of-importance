@@ -34,7 +34,7 @@ This might seem simple, but the reason it is so important is because the mental 
 
 Related lessons: [what-is-a-computer](https://perpetual.education/lesson/what-is-a-computer/)
 
-- [ ] Done [link to quiz](https://marcor.substack.com/p/getting-to-know-computers) (This should probably be one of the practice interview questions)
+- [ X ] Done [link to blogpost](https://marcor.substack.com/p/getting-to-know-computers) (This should probably be one of the practice interview questions)
 
 
 ### How to maintain your file structure and organize your work station
