@@ -54,6 +54,8 @@ Related lessons: [the-file-system](https://perpetual.education/lesson/the-file-s
 Detailed outlines/drawings. [human-data-collection](https://perpetual.education/lesson/human-data-collection/) and [human-memory](https://perpetual.education/lesson/human-memory/) lessons could spark some ideas.
 
 - [ X ] Done
+[Human data collection](https://marcor.substack.com/p/object-attributes-and-data-collection?utm_source=%2Finbox&utm_medium=reader2) 
+[Human memory](https://substack.com/inbox/post/104794194)
 
 ### Write about your learning journey and process
 
