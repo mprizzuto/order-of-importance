@@ -53,7 +53,7 @@ Related lessons: [the-file-system](https://perpetual.education/lesson/the-file-s
 
 Detailed outlines/drawings. [human-data-collection](https://perpetual.education/lesson/human-data-collection/) and [human-memory](https://perpetual.education/lesson/human-memory/) lessons could spark some ideas.
 
-- [ X ] Done  
+- [ X ] Done<br/>
 [Human data collection](https://marcor.substack.com/p/object-attributes-and-data-collection)  
 [Human memory](https://marcor.substack.com/p/human-memory-and-memory-palaces)
 
