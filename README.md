@@ -43,7 +43,7 @@ This is something you'll always be maintaining and building on. If your files an
 
 Related lessons: [the-file-system](https://perpetual.education/lesson/the-file-system/) and [file-types-images-docs-and-html](https://perpetual.education/lesson/file-types-images-docs-and-html/)
 
-- [ X ] Done (not sure how to check this yet) (maybe we make a follow along video)
+- [ X ] Done (not sure how to check this yet) (maybe we make a follow along video) <br/>
 [the-file-system](https://marcor.substack.com/p/getting-to-know-computers)  
 [file-type-and-image-docs](https://marcor.substack.com/p/fileimage-types-and-turning-docs)
 
