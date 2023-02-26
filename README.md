@@ -46,7 +46,6 @@ Related lessons: [the-file-system](https://perpetual.education/lesson/the-file-s
 - [ X ] Done (not sure how to check this yet) (maybe we make a follow along video)
 [the-file-system](https://marcor.substack.com/p/getting-to-know-computers)  
 [file-type-and-image-docs](https://marcor.substack.com/p/fileimage-types-and-turning-docs)
-<!-- TODO, link to blog posts about terminal and file types-->
 
 ## ⬤ Mindset
 
@@ -54,7 +53,7 @@ Related lessons: [the-file-system](https://perpetual.education/lesson/the-file-s
 
 Detailed outlines/drawings. [human-data-collection](https://perpetual.education/lesson/human-data-collection/) and [human-memory](https://perpetual.education/lesson/human-memory/) lessons could spark some ideas.
 
-- [ ] Done
+- [ X ] Done
 
 ### Write about your learning journey and process
 
