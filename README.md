@@ -72,7 +72,7 @@ We learn a bunch of stuff later in the course about HTML so we'll note that furt
 
 This might seem _basic_ but we see students (and even senior devs) just guessing and trying `../` or `./` until it works and moving on. This is not reasonable. If the web is a complex system of linked resources then you absolutely have to have a solid handle on how to link things together, how file paths work, and how to write them. This will become more complicated later. This is just the basic version.
 
-- [ ] Done [link to proof](https://peprojects.dev) (one of the early challenges) (maybe we should make another slightly more edge-case filled challenge) (but also most any semi-complex site should prove you've got this)
+- [ X ] Done [HTML, file paths and metadata](https://marcor.substack.com/p/html-file-paths-and-metadata)
 
 ### How to write the HTML and CSS for a really beautiful article
 
