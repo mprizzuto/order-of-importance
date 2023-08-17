@@ -86,10 +86,9 @@ Also a good time to use an HTML validator or run a lighthouse test.
 
 This is a great time to do user testing. You can ask your friends and family. If the article is really enjoyable to read, then you can iterate. If it's not A+ then it's not done.
 
-- [ X ] Done [substack article](https://marcor.substack.com/p/using-html-and-css-to-structure-and)
+- [ X ] Done [substack article](https://peprojects.dev)
 
 You can make many different article styles. And this will clearly extend to all future projects, right? Case studies?
-
 
 ### A basic business-card style website
 
